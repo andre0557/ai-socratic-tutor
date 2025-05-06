@@ -1,7 +1,7 @@
 AI-Powered Socratic Economics Tutor for STEM Students
 
 <p align="center">
-  <img src="./FIG_Terminal_MathProof.png" alt="Descriptive Alt Text" width="50%" />
+  <img src="./FIG_Terminal_MathProof.png" alt="Math Proof Example Output" width="50%" />
 </p>
 
 ## 🚀 Overview
@@ -45,7 +45,7 @@ This mirrors how STEM students typically reason—breaking down problems systema
 * ✅ Potential classroom integration, with future RAG + UI support planned
 
 <p align="center">
-  <img src="./FIG_Terminal_RegularOutput.png" alt="Descriptive Alt Text" width="50%" />
+  <img src="./FIG_Terminal_RegularOutput.png" alt="Regular Output from User Answer" width="50%" />
 </p>
 
 ---
