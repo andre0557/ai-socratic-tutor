@@ -2,7 +2,7 @@ AI-Powered Socratic Economics Tutor for STEM Students
 
 <p align="center">
   <img src="./FIG_Terminal_MathProof.png" alt="Math Proof Example Output" width="50%"
-    style="border: 20px solid #aaa; border-radius: 6px; background-color: #f5f5f5; padding: 4px;" />
+    style="border: 20px solid #aaa; border-radius: 20px; background-color: #f5f5f5; padding: 4px;" />
 </p>
 
 
