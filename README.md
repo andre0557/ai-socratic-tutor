@@ -1,6 +1,8 @@
 AI-Powered Socratic Economics Tutor for STEM Students
 
-![Math Proof Sample](./FIG_Terminal_MathProof.png)
+<p align="center">
+  <img src="./FIG_terminal_math-proof.png" alt="Descriptive Alt Text" width="50%" />
+</p>
 
 ## 🚀 Overview
 
