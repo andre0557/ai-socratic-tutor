@@ -1,5 +1,7 @@
 AI-Powered Socratic Economics Tutor for STEM Students
 
+![Math Proof Sample](./FIG_Terminal_MathProof.png)
+
 ## 🚀 Overview
 
 This project introduces an AI-powered Socratic tutoring system designed to help STEM students bridge the gap between their disciplinary reasoning (e.g., mathematics, physics, engineering) and economic thinking. Many STEM students struggle with economics not due to a lack of intelligence, but because the mental frameworks and jargon used in economics differ from those in STEM disciplines.
@@ -14,6 +16,8 @@ Built using **Google’s Gemini Flash model**, the tutor engages students in Soc
 * **Promote deep understanding**: Encourage logical reasoning over rote answers via structured, dialog-driven learning.
 * **Enhance interdisciplinary learning**: Empower students to confidently approach economic problems from a STEM-informed perspective.
 * **Develop a scalable EdTech platform**: Lay the groundwork for personalized, adaptive learning systems in economics and beyond.
+
+![System Workflow Diagram](./FIG_Terminal_Workflow.png)
 
 ---
 
@@ -37,6 +41,8 @@ This mirrors how STEM students typically reason—breaking down problems systema
 * ✅ Iterative prompt engineering with feedback from economics faculty
 * ✅ Socratic dialogue to guide thinking rather than provide answers
 * ✅ Potential classroom integration, with future RAG + UI support planned
+
+![Regular Answer Output](./FIG_Terminal_RegularOutput.png)
 
 ---
 
