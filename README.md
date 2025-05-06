@@ -45,6 +45,9 @@ This mirrors how STEM students typically reason—breaking down problems systema
 * ✅ Potential classroom integration, with future RAG + UI support planned
 
 ![Regular Answer Output](./FIG_Terminal_RegularOutput.png)
+<p align="center">
+  <img src="./FIG_Terminal_RegularOutput.png" alt="Descriptive Alt Text" width="50%" />
+</p>
 
 ---
 
