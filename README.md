@@ -19,7 +19,7 @@ Built using **Google’s Gemini Flash model**, the tutor engages students in Soc
 * **Enhance interdisciplinary learning**: Empower students to confidently approach economic problems from a STEM-informed perspective.
 * **Develop a scalable EdTech platform**: Lay the groundwork for personalized, adaptive learning systems in economics and beyond.
 
-![System Workflow Diagram](./FIG_Terminal_WorkFlow.png)
+![System Workflow Diagram](./FIG_TERMINAL_WorkFlow.png)
 
 ---
 
@@ -44,7 +44,6 @@ This mirrors how STEM students typically reason—breaking down problems systema
 * ✅ Socratic dialogue to guide thinking rather than provide answers
 * ✅ Potential classroom integration, with future RAG + UI support planned
 
-![Regular Answer Output](./FIG_Terminal_RegularOutput.png)
 <p align="center">
   <img src="./FIG_Terminal_RegularOutput.png" alt="Descriptive Alt Text" width="50%" />
 </p>
